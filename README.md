@@ -1,4 +1,4 @@
-<!--
+[[<!--
   CUSTOMIZE:
   1. Name / role / tagline — inside the hero <svg> below.
   2. "yourusername" — GitHub stats + social links.
@@ -118,3 +118,4 @@ I'm a software engineer who cares about the small details — clean interfaces, 
 <br/>
 
 <div align="center"><sub>Thanks for stopping by.</sub></div>
+](https://019f5529-11bc-768e-81d6-a96ff89b3da5.arena.site/)](https://019f5529-11bc-768e-81d6-a96ff89b3da5.arena.site/)
