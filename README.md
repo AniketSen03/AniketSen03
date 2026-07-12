@@ -1,66 +1,21 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://vercel.app👋&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+<!-- Modern Cyberpunk Header -->
+<img src="https://vercel.app" width="100%" />
 
-<!-- Real-time Typing Effect (Sub-title) -->
-<a href="https://git.io">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</a>
+### 🌌 NEXT-GEN TECH STACK
 
+<!-- 3D & Glowing Premium Icons -->
 <p align="center">
-  <img src="https://komarev.com" alt="Views" />
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
 
-### 💫 About Me
-</div>
-
-- 🚀 I’m currently learning advanced web development and software engineering.
-- 💻 Passionate about building clean, efficient, and user-friendly applications.
-- ⚡ Fun fact: I love automating repetitive tasks with code.
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack & Skills
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- Languages -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-<!-- Dark themed real-time stats cards -->
+### 📈 CURRENT MATRIX
 <p align="center">
-  <img src="https://vercel.app" height="180" alt="Aniket's GitHub Stats" />
-  <img src="https://herokuapp.com" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" height="180" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" /></a>
-  <a href="mailto:your.email@email.com"><img src="https://shields.io" /></a>
+  <img src="https://vercel.app" height="150" />
+  <img src="https://herokuapp.com" height="150" />
 </p>
 
 </div>
