@@ -21,7 +21,6 @@
 ## About
 
 I'm a final-year Computer Science & Engineering (Blockchain) student at Samrat Ashok Technological Institute, Vidisha, with a focus on the MERN stack and frontend development. Most of my time goes into building web applications end to end — from database and API design to interfaces people actually enjoy using — and I bring a design eye to that process through UI/UX and graphic work on the side.
-
 <br>
 
 ## Tech Stack
@@ -37,7 +36,7 @@ I'm a final-year Computer Science & Engineering (Blockchain) student at Samrat A
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /><br>
 <sub><b>REST APIs</b></sub>
 
-<br><br>
+<br>
 
 **Languages**
 
@@ -46,7 +45,6 @@ I'm a final-year Computer Science & Engineering (Blockchain) student at Samrat A
 **Tools & Design**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,ps&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
 </div>
 
@@ -115,37 +113,9 @@ A React application built on the YouTube Data API, supporting video browsing, se
 
 | 🏆 | Achievement |
 |:---:|:---|
-| 🥇 | **1st Place** — Technovision Coding Challenge |
-| 🏅 | **Finalist** — FluxWave Hackathon |
+| 🥇 | **1st Place** — Technovision Coding Challenge(2025,2026) |
+| 🏅 | **Winner** — FluxWave Hackathon |
 | ⭐ | Multiple additional hackathon and coding competition placements |
-
-</div>
-
-<br>
-
-## Design & Creative Work
-
-Beyond development, I work across UI/UX design, graphic design, thumbnail design, and video editing — skills I use to prototype interfaces and shape products before a single line of code is written.
-
-<div align="center">
-
-![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-6366F1?style=flat-square&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-06B6D4?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Thumbnail Design](https://img.shields.io/badge/Thumbnail_Design-6366F1?style=flat-square&logo=youtube&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_Editing-06B6D4?style=flat-square&logo=premierepro&logoColor=white)
-
-</div>
-
-<br>
-
-## Currently Learning
-
-<div align="center">
-
-![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI/ML-6366F1?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-06B6D4?style=for-the-badge&logo=pandas&logoColor=white)
-![App Development](https://img.shields.io/badge/App_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
