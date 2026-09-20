@@ -1,14 +1,18 @@
 <div align="center">
 
-# Aniket Sen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Aniket%20Sen&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20/%20MERN%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-### Full-Stack / MERN Stack Developer
+<a href="https://aniket-sen-portfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+clean%2C+responsive+web+apps;MERN+Stack+%7C+React+%7C+Node.js;Final-Year+CSE+(Blockchain)+Student;UI%2FUX+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-Final-year CSE (Blockchain) student building clean, responsive web applications and exploring UI/UX along the way.
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aniket-sen-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketsen03)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniketSen03)
+
+<img src="https://komarev.com/ghpvc/?username=AniketSen03&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -22,35 +26,29 @@ I'm a final-year Computer Science & Engineering (Blockchain) student at Samrat A
 
 ## Tech Stack
 
+<div align="center">
+
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" /><br><br>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /><br>
+<sub><b>REST APIs</b></sub>
+
+<br><br>
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,py&theme=dark" /><br><br>
 
 **Tools & Design**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,figma,ps&theme=dark" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+</div>
 
 <br>
 
@@ -60,31 +58,33 @@ I'm a final-year Computer Science & Engineering (Blockchain) student at Samrat A
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 MedVault
+### 🩺 &nbsp;MedVault
 Medicine information and e-commerce platform built on the MERN stack, with authentication, medicine search, detailed product pages, and a full cart-to-order flow.
 
-`MongoDB` `Express` `React` `Node.js`
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="28"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ White Bag
+### 🛍️ &nbsp;White Bag
 Full-stack e-commerce application featuring authentication, product management, category filtering, individual product pages, and cart/order workflows.
 
-`MongoDB` `Express` `React` `Node.js`
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="28"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ▶️ YouTube-Inspired Video Platform
+### ▶️ &nbsp;YouTube-Inspired Video Platform
 A React application built on the YouTube Data API, supporting video browsing, search, channel details, and dynamic video pages.
 
-`React` `YouTube Data API`
+<img src="https://skillicons.dev/icons?i=react,js&theme=dark" height="28"/> &nbsp;<sub><b>YouTube Data API</b></sub>
 
 </td>
 <td width="50%" valign="top">
+
+<sub>More projects on my <a href="https://github.com/AniketSen03?tab=repositories">GitHub</a> →</sub>
 
 </td>
 </tr>
@@ -96,10 +96,14 @@ A React application built on the YouTube Data API, supporting video browsing, se
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AniketSen03&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketSen03&theme=default" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AniketSen03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketSen03&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSen03&layout=compact&theme=default" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSen03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9" alt="Top Languages" height="165" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketSen03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6366F1&point=ffffff" alt="Contribution Graph" width="90%" />
 
 </div>
 
@@ -107,9 +111,15 @@ A React application built on the YouTube Data API, supporting video browsing, se
 
 ## Achievements
 
-- 🏆 **1st Place** — Technovision Coding Challenge
-- 🏆 **Finalist** — FluxWave Hackathon
-- Multiple additional hackathon and coding competition placements
+<div align="center">
+
+| 🏆 | Achievement |
+|:---:|:---|
+| 🥇 | **1st Place** — Technovision Coding Challenge |
+| 🏅 | **Finalist** — FluxWave Hackathon |
+| ⭐ | Multiple additional hackathon and coding competition placements |
+
+</div>
 
 <br>
 
@@ -117,20 +127,40 @@ A React application built on the YouTube Data API, supporting video browsing, se
 
 Beyond development, I work across UI/UX design, graphic design, thumbnail design, and video editing — skills I use to prototype interfaces and shape products before a single line of code is written.
 
+<div align="center">
+
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-6366F1?style=flat-square&logo=figma&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-06B6D4?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Thumbnail Design](https://img.shields.io/badge/Thumbnail_Design-6366F1?style=flat-square&logo=youtube&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-06B6D4?style=flat-square&logo=premierepro&logoColor=white)
+
+</div>
+
 <br>
 
 ## Currently Learning
 
-`DSA in Java` · `AI/ML` · `Data Science` · `App Development`
+<div align="center">
+
+![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-6366F1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-06B6D4?style=for-the-badge&logo=pandas&logoColor=white)
+![App Development](https://img.shields.io/badge/App_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
 
 <br>
 
-## Connect
+## Connect With Me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aniket-sen-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketsen03)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniketSen03)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>
